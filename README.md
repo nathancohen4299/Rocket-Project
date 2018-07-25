@@ -1,7 +1,7 @@
 # Rocket-Project
-Rocket Project from my AP Computer Science class, junior year of highschool.
+### By: Nathan Cohen
 
-Author: Nathan Cohen
+**Description**: Rocket Project from my AP Computer Science class, junior year of highschool.
 
-Date: Winter 2016
+**Date**: *Winter 2016*
 
