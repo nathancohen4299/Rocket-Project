@@ -1,5 +1,5 @@
 # Rocket-Project
-### By: Nathan Cohen
+### Author: Nathan Cohen
 
 **Description**: Rocket Project from my AP Computer Science class, junior year of highschool.
 
