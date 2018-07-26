@@ -5,4 +5,4 @@
 
 **Date**: *Winter 2016*
 
-[Rocket Project](https://nathancohen4299.github.io/Rocket-Project/Rocket.html)
+Cick [here](https://nathancohen4299.github.io/Rocket-Project/Rocket.html) to view Rocket Project.
